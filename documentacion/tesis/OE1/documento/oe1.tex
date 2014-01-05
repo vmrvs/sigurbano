@@ -1,0 +1,53 @@
+\documentclass{article}
+\usepackage{arydshln}
+\usepackage[hidelinks]{hyperref}
+\renewcommand{\baselinestretch}{1.5}
+\usepackage[onehalfspacing]{setspace}
+\setlength{\footnotesep}{0cm}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{mathptmx}
+\usepackage{courier}
+\usepackage{helvet}
+\usepackage[T1]{fontenc}
+%\usepackage[paper=letterpaper,left=3cm,right=3cm,top=2cm,bottom=3cm]{geometry} 
+\usepackage{framed,color}
+\usepackage{graphicx}
+\definecolor{shadecolor}{rgb}{0.1,0.1,0.1}
+\usepackage{tocloft}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\usepackage{titlesec}
+\titleformat{\section}{\normalfont\Large\bfseries\scshape}{\thesection.}{1em}{}
+\titleformat{\subsection}{\normalfont\large\bfseries\scshape}{\thesubsection}{1em}{}
+\usepackage[table]{xcolor}
+\colorlet{tableheadcolor}{lightgray}
+\usepackage{parskip}
+\setlength{\parindent}{15pt}
+\usepackage{multirow}
+\usepackage{longtable}
+\usepackage{pdfpages}
+%\setcounter{tocdepth}{1}
+\usepackage{float}
+\restylefloat{table}
+\usepackage{xstring}
+\usepackage{titleps}
+
+\newpagestyle{monstyle}{%
+     \headrule
+        \sethead{\thepage}
+                   {}
+                              {{\sectiontitle}}}
+
+\begin{document}
+\pagestyle{monstyle}
+\title{Sistema de Información Geográfico Libre y Público para el Monitoreo Urbano\\
+  (Objetivo Específico \#1)}
+\author{Víctor Velásquez Solano}
+\maketitle
+\tableofcontents
+\include{introduccion}
+\include{urbanismo}
+\include{americalatina}
+\include{gis}
+\include{referencias}
+\end{document}

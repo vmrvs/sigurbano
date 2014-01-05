@@ -1,0 +1,107 @@
+Investigación Inicial
+
+Documentación básica sobre el tema con el patrocinante
+Recopilación de Información afín
+Documentar la información
+Preparación del formato del informe de anteproyecto
+Generar informe de anteproyecto
+Entregar informe de anteproyecto revisión 1
+Entregar informe final de anteproyecto (11 de julio)
+
+--
+
+Objetivo 1: Estudios del area...
+
+Recopilar información de diversas fuentes sobre el urbanismo en Chile
+Corroborar información con patrocinante
+Selección de la información útil al proycto
+Generar Documento Formal del Objetivo 1
+
+--
+
+Objetivo 2: Estudios y selección de herramientas GIS
+
+Recopilar información del marco teórico de los SIG
+Recopilar información del marco técnico de los SIG
+Seleccionar información adecuada al proyecto
+Generar reporte
+Recopilar información sobre las herramientas de software libre disponibles
+Hacer tabla comparativa de las herramientas libres
+Escritura del Documento Formal del Objetivo 2
+
+--
+
+Objetivo 3:
+
+Confección de documento de Especificación de Requisitos de Usuario
+Reunión 1 ERU
+Reunión 2 ERU
+Reunión 3 ERU y verificación
+Formalización del documento RSU
+Confección de documento de Especificación de Requisitos de Software
+Reunión 1 ERS
+Reunión 2 ERS
+Reunión 3 ERS
+Reunión 4 ERS y verificación
+Formalización del documento RSU
+
+--
+
+Objetivo 4
+
+Diseño en base a ERS
+Definir los Casos de USO
+Definir contratos
+Corroboración de contratos y casos de uso
+Escritura del documento formal de Contratos y Casos de Uso
+Diseño de mockups por CDU
+Pruebas de usabilidad de mockups 1
+Corrección de mockups
+Pruebas de usabilidad de mockups 2
+Corrección de mockups
+Pruebas de usabilidad de mockups 3
+Acuerdo de Interfaz Gráfica de Usuario
+Preparación del entorno de desarrollo:
+- git
+- equipos servidor y de desarrollo
+Desarrollo del prototipo[...]
+Muestra de avance de desarrollo 1
+Documentación de avance de desarrollo
+Muestra de avance de desarrollo 2
+Documentación de avance de desarrollo
+Pruebas de usabilidad en prototipo grupo 1
+Documentación de usabilidad
+Pruebas de usabilidad en prototipo grupo 2
+Documentación de usabilidad
+Pruebas de usabilidad en prototipo grupo 3
+Documentación de usabilidad
+Conseguir dominio y hosting para alojar el servicio
+Instalar la plataforma
+Desarrollar pruebas de funcionamiento de la plataforma instalada
+
+--
+
+Objetivo 5
+
+Reunir la documentación generada en un solo documento
+Generar conclusiones
+Formalizar documento
+Reunión con el patrocinante
+Generar propuestas de implementación y capacitación para junstas de vecinos
+Documentar propuesta
+Presentación del documento
+
+--
+
+Formalización de la tesis
+
+Escritura de la Tésis
+Revisióm del patrocinante
+Selección del Informante
+Corrección del informante
+Trémites administrativos
+Impresión
+Preparación de la presentación
+Examen de titulación
+
+

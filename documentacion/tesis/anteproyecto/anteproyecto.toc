@@ -1,0 +1,31 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}presentaci\IeC {\'o}n general}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}t\IeC {\'\i }tulo del proyecto}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}dominio}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}disciplina cient\IeC {\'\i }fica y tecnol\IeC {\'o}gica}{3}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}\IeC {\'a}reas de aplicaci\IeC {\'o}n}{3}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}duraci\IeC {\'o}n del proyecto}{3}{subsection.1.5}
+\contentsline {section}{\numberline {2}responsables del proyecto}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}instituci\IeC {\'o}n principal del proyecto}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}patrocinante del proyecto}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}datos del estudiante}{4}{subsection.2.3}
+\contentsline {section}{\numberline {3}resumen del proyecto}{5}{section.3}
+\contentsline {section}{\numberline {4}objetivos generales y espec\IeC {\'\i }ficos}{6}{section.4}
+\contentsline {subsection}{\numberline {4.1}objetivo general}{6}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}objetivos espec\IeC {\'\i }ficos}{6}{subsection.4.2}
+\contentsline {section}{\numberline {5}descripci\IeC {\'o}n del proyecto}{7}{section.5}
+\contentsline {subsection}{\numberline {5.1}introducci\IeC {\'o}n}{7}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}nivel actual}{9}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}motivaci\IeC {\'o}n}{10}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}impactos}{11}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}referencias}{12}{subsection.5.5}
+\contentsline {section}{\numberline {6}resultados verificables relacionados con los objetivos espec\IeC {\'\i }ficos del proyecto}{13}{section.6}
+\contentsline {section}{\numberline {7}descripci\IeC {\'o}n de la metodolog\IeC {\'\i }a}{15}{section.7}
+\contentsline {section}{\numberline {8}existencia de avances relacionados con el proyecto}{17}{section.8}
+\contentsline {section}{\numberline {9}productos e indicadores de logro}{18}{section.9}
+\contentsline {subsection}{\numberline {9.1}etapas del proyecto y formas de evaluaci\IeC {\'o}n}{18}{subsection.9.1}
+\contentsline {section}{\numberline {10}descripci\IeC {\'o}n del rol de los integrantes del equipo de trabajo}{22}{section.10}
+\contentsline {section}{\numberline {11}plan de trabajo}{23}{section.11}
+\contentsline {section}{\numberline {12}presupuesto del proyecto}{25}{section.12}
+\contentsline {subsection}{\numberline {12.1}justificaci\IeC {\'o}n}{25}{subsection.12.1}
+\contentsline {section}{\numberline {13}plan de difusi\IeC {\'o}n del proyecto}{27}{section.13}

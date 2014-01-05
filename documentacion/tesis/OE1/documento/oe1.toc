@@ -1,0 +1,14 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{2}{section.1}
+\contentsline {section}{\numberline {2}Urbanismo, urbanizaci\IeC {\'o}n y urbe}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Definiciones generales}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Definiciones de acuerdo a la legislaci\IeC {\'o}n chilena}{5}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Lo urbano y lo rural acorde al Censo chileno}{7}{subsubsection.2.2.1}
+\contentsline {section}{\numberline {3}La urbanizaci\IeC {\'o}n en Am\IeC {\'e}rica Latina}{10}{section.3}
+\contentsline {subsection}{\numberline {3.1}Contexto Mundial}{10}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Contextos Regional (Am\IeC {\'e}rica Latina)}{12}{subsection.3.2}
+\contentsline {section}{\numberline {4}Sistemas de Informaci\IeC {\'o}n Geogr\IeC {\'a}fica}{23}{section.4}
+\contentsline {subsection}{\numberline {4.1}Software GIS}{23}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Datos GIS}{24}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Datos Vectoriales}{25}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Almacenamiento de Datos}{26}{subsection.4.4}

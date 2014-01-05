@@ -1,0 +1,27 @@
+digraph
+{
+  "País" -> "Región" -> "Provincia" -> "Comuna" -> "Distrito Censal"
+  
+  "Distrito Censal" -> "Urbano"
+  "Distrito Censal" -> "Rural"
+
+  "Urbano" -> "Entidad" -> "Zona Censal" -> "Manzana" -> "Sector de Empadronamiento"
+
+  "Entidad" -> "Ciudad"
+  "Entidad" -> "Pueblo"
+
+  "Rural" -> "Localidad" -> "Entidad "
+  subgraph cluster1 {
+    rankdir=BU;
+  "Entidad " -> "Aldea"
+  "Entidad " -> "Caserío"
+  "Entidad " -> "Asentamiento Minero"
+  "Entidad " -> "Fundo-Estancia-Hacienda"
+  "Entidad " -> "Parcela-Hijuela"
+  "Entidad " -> "Parcela de Agrado"
+  "Entidad " -> "Comunidad Indígena"
+  "Entidad " -> "Campamento"
+  "Entidad " -> "Veranada-Bajada-Aguada"
+  "Entidad " -> "Otros"
+  }
+}
